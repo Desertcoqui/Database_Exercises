@@ -36,4 +36,3 @@ Values("Michael Jackson", "Thriller", "1982", 46000000,"Pop, rock, R&B"),
 ("Santana","Supernatural","1999",20500000,"Rock"),
 ("Guns N Roses","Appetite for Destruction","1987",21300000,"Heavy metal, hard rock");
 
-select * From albums \G
